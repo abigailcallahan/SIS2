@@ -16,7 +16,7 @@ public class RunSIS
 	
 		public static void main(String[] args) throws IOException
 			{
-
+			System.out.println("hello");
 			fillArrayList();
 			}
 		public static void fillArrayList() throws IOException
