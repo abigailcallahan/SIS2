@@ -24,7 +24,7 @@ public class AddDeleteStudent
 		static String string2P;
 		static String string3P;
 
-
+		
 		
 		public static void addDelete() throws IOException
 			{
@@ -47,7 +47,7 @@ public class AddDeleteStudent
 				
 				else if(answer == 3)
 					{
-						//go to menu
+						RunSIS.displaySortingMenu();
 					}
 			}
 		
